@@ -2,7 +2,6 @@
 - 👀 I’m interested in music, electronics, games, drawing and many other things
 - 🌱 I’m currently learning to code and to be better at guitar and bass and to be an electronic's wizard
 - 💞️ I’m looking to collaborate on an indie 2D game or an original buisness idea
-- 📫 You can reach me at thompicard@icloud.com
 
 <!---
 Oilrete/Oilrete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
